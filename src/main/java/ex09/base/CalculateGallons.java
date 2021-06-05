@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Ivy Nguyen
+ */
+
 package ex09.base;
 
 public class CalculateGallons {
