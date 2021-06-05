@@ -13,10 +13,10 @@ public class App
     {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("What is the length?");
+        System.out.print("What is the length?");
         float length = input.nextFloat();
 
-        System.out.println("What is the width?");
+        System.out.print("What is the width?");
         float width = input.nextFloat();
 
         CalculateGallons paint = new CalculateGallons(length, width);
